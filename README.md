@@ -12,3 +12,4 @@ https://steamspy.com/api.php
 
 # 2nd TODO:
 - Implement database
+- Add CRUD
